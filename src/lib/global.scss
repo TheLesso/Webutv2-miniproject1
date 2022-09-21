@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*väljer font */
+@font-face {  
+    font-family: lcd;
+    src: url(../font/SUBWT___.ttf);
+}
+
+html {
+    font-size: 62.5%;
+}
